@@ -8,10 +8,7 @@ namespace dropkick.tests.TestObjects
         public string MappedPath { get; private set; }
         public Task Task { get; private set; }
 
-        string PhysicalServer.Name
-        {
-            get { throw new NotImplementedException(); }
-        }
+        public string Name { get; set; }
 
         bool PhysicalServer.IsLocal
         {

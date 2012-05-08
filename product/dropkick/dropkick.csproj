@@ -102,6 +102,7 @@
     <Compile Include="Configuration\Dsl\Files\ProtoEncryptAppConfigTask.cs" />
     <Compile Include="Configuration\Dsl\Files\ProtoUnzipArchiveTask.cs" />
     <Compile Include="Configuration\Dsl\Files\UnzipOptions.cs" />
+    <Compile Include="Configuration\Dsl\Http\Extension.cs" />
     <Compile Include="Configuration\Dsl\Iis\IisApplicationPoolOperationProtoTask.cs" />
     <Compile Include="Configuration\Dsl\Iis\IisOperations.cs" />
     <Compile Include="Configuration\Dsl\Iis\ProcessModelIdentity.cs" />
@@ -160,6 +161,7 @@
     <Compile Include="Tasks\Files\FilePokeReplacement.cs" />
     <Compile Include="Tasks\Files\FilePokeTask.cs" />
     <Compile Include="Tasks\Files\UnzipArchiveTask.cs" />
+    <Compile Include="Tasks\Http\HttpGetTask.cs" />
     <Compile Include="Tasks\Iis\Iis6Path.cs" />
     <Compile Include="Tasks\Iis\Iis7OperationTask.cs" />
     <Compile Include="Tasks\Iis\IisUtility.cs" />

@@ -97,6 +97,7 @@
     <Compile Include="Configuration\Dsl\CheckingPlanBuildingLogic.cs" />
     <Compile Include="Configuration\Dsl\CopyFilesProtoWithSettings.cs" />
     <Compile Include="Configuration\Dsl\FilePokeTest.cs" />
+    <Compile Include="Configuration\Dsl\HttpTest.cs" />
     <Compile Include="Configuration\Dsl\IisProtoTaskProcessModelSpec.cs" />
     <Compile Include="Configuration\Dsl\ProcessModelIdentityTranslation.cs" />
     <Compile Include="Configuration\Dsl\should_throw_if_missing_a_mapped_role.cs" />
